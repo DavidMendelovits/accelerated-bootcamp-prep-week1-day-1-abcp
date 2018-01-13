@@ -1,11 +1,11 @@
-name = "Beyonce";
+name = "David";
 console.log(name);
 
-var personality = "awesome"
+var personality = "ambitioous"
 console.log(personality)
 //
 
-personality = "fabulous";
+personality = "still ambitioous";
 console.log(personality);
 
 // Your Turn!
